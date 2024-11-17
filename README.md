@@ -1,6 +1,7 @@
 Hardware Configuration
 
 The system uses capacitive soil moisture V1.2, HC-SR04 ultrasonic sensors, NEO-6M GPS module, and RFID RC522 reader for sensing, powered by a 12V DC battery with LM2596 buck and MT3608 boost converters for voltage regulation.
+
 Actuator Setup
 
 The system employs DC motors for movement, SPDT relay-controlled water pump for irrigation, servomotors for sensor positioning and an OLED display for status monitoring.
